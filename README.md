@@ -1,2 +1,4 @@
 # java2
-## 使用https的远程仓库
+## 学习Git
+## 配置https的远程仓库
+使用IDEA
